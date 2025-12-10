@@ -26,7 +26,7 @@
 1.  **Clone the repo**
 
     ```bash
-    git clone https://github.com/yourusername/log-it.git
+    git clone https://github.com/adwaithjayan/log-it.git
     cd log-it
     ```
 
