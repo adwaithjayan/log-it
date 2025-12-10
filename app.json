@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gym-tracker",
-    "slug": "gym-tracker",
+    "name": "Log It",
+    "slug": "log-it",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
